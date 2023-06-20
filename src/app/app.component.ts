@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { CartoLayer, MAP_TYPES, colorContinuous } from '@deck.gl/carto';
+import { CartoLayer, MAP_TYPES, colorContinuous } from '@deck.gl/carto/typed';
 
 @Component({
   selector: 'app-root',
